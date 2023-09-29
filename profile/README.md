@@ -1,5 +1,3 @@
-# Partisaner
-
 ## About Us
 
 Welcome to Partisaner, an organization specializing in Software Development, Mobile Development, and Backend Development. We are a team of experienced developers passionate about creating robust, scalable, and innovative applications.
