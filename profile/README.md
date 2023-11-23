@@ -13,18 +13,6 @@ Welcome to Partisaner, an organization specializing in Software Development, Mob
 
 
 
-## Projects
-
-### Mobile Development
-
-- **Clothes App**: A mobile application for browsing and purchasing clothes, built with Swift and Kotlin.
-
-### Backend Development
-
-- **API for Clothes App**: A RESTful API built with Vapor to support the Clothes App.
-
-
-
 ## Our Team
 
 - **Software Developers**: Experienced in Swift, C++, Kotlin, C# and Rust
@@ -37,8 +25,6 @@ Welcome to Partisaner, an organization specializing in Software Development, Mob
 ## Contact Us
 
 - **Email**: [office@partisaner.com](mailto:office@partisaner.com)
-- **GitHub**: [Partisaner GitHub](https://github.com/Partisaner)
-
 
 
 We are open for collaborations, partnerships, and consulting services. Feel free to reach out to us for any software development needs!
