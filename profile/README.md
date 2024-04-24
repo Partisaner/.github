@@ -13,7 +13,7 @@ Welcome to Partisaner, an organization specializing in Mobile Development, and B
 
 - **iOS Developers**: Specialising in Swift and SwiftUI 
 - **Android Developers**: Specialising in Kotlin and Jetpack Compose
-- **Backend Developers**: Proficient in Vapor , .NET and Rust.
+- **Backend Developers**: Proficient in Rust.
 
 
 ## Contact Us
